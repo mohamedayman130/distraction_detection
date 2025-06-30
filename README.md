@@ -105,13 +105,6 @@ You will see the live video feed with distraction status and FPS.
 
 ---
 
-## 🖼️ Screenshot
-
-> Add a screenshot like below to show output
-
-![screenshot](screenshot.png)
-
----
 
 ## 📌 Notes
 
